@@ -1,4 +1,5 @@
-luafile C:\Users\den\AppData\Local\nvim\lua\init.lua
+luafile $HOME/AppData/Local/nvim/lua/init.lua
+
 
 set nu
 let maplocalleader=","
